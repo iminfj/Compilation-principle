@@ -1,0 +1,17 @@
+# main : "main";
+import System as sys;
+public class demo {
+
+	int t0 = 2;
+	int t1 = 3;
+	int r0 = t0 + t1;
+	public int k = 123;	
+
+	string s = "hello apollo!";
+	int len = size(s);
+
+	public void main() {
+		sys.hello();
+		print(len += r0);
+	}
+}

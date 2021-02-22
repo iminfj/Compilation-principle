@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Apollo:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Apollo_jar</output-path>
+    <root id="archive" name="Apollo.jar">
+      <element id="module-output" name="Apollo" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
